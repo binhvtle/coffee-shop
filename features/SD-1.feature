@@ -5,4 +5,5 @@ Feature: SD-1 Feature
     Given 1st precondition
     When 1st action
     Then 1st result
+    Then 2nd result
     
