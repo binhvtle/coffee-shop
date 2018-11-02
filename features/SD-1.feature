@@ -6,3 +6,4 @@ Feature: SD-1 Feature
     When 1st actions
     Then 1st results
     Then 2nd results
+    And update from git
