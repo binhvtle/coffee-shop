@@ -7,3 +7,4 @@ Feature: SD-1 Feature
     Then 1st results
     Then 2nd results
     And update from git
+    And file 2
