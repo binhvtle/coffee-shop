@@ -5,4 +5,4 @@ Feature:
     <Some interesting scenario steps here>
     When
     Then
-    And
+    And a
