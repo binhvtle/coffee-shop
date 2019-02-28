@@ -29,7 +29,7 @@ Examples:
 |@country US                  |address_US_CA.table     |Standard   |
 |@country US                  |address_US_CA.table     |Two Day    |
 |@country US                  |address_US_CA.table     |Overnight  |
-|@country US @skip UGPW-7009|address_US_CA.table     |SHOP RUNNER|
+|@country US @skip UGPW-7009  |address_US_CA.table     |SHOP RUNNER|
 |@country CA                  |address_CA_MB.table     |Standard   |
 |@country INTL                |address_INTL_India.table|Express    |
 |@country INTL                |address_INTL_India.table|Standard   |
@@ -94,7 +94,7 @@ Examples:
 |@country US                  |address_US_CA.table     |Standard   |
 |@country US                  |address_US_CA.table     |Two Day    |
 |@country US                  |address_US_CA.table     |Overnight  |
-|@country US @skip UGPW-7009|address_US_CA.table     |SHOP RUNNER|
+|@country US @skip UGPW-7009  |address_US_CA.table     |SHOP RUNNER|
 |@country CA                  |address_CA_MB.table     |Standard   |
 |@country INTL                |address_INTL_India.table|Express    |
 |@country INTL                |address_INTL_India.table|Standard   |
@@ -124,7 +124,7 @@ Examples:
 |@country US                  |address_US_CA.table     |Standard   |
 |@country US                  |address_US_CA.table     |Two Day    |
 |@country US                  |address_US_CA.table     |Overnight  |
-|@country US @skip UGPW-7009|address_US_CA.table     |SHOP RUNNER|
+|@country US @skip UGPW-7009  |address_US_CA.table     |SHOP RUNNER|
 |@country CA                  |address_CA_MB.table     |Standard   |
 |@country INTL                |address_INTL_India.table|Express    |
 |@country INTL                |address_INTL_India.table|Standard   |
@@ -153,7 +153,7 @@ Examples:
 |@country US                  |address_US_CA.table     |Standard   |
 |@country US                  |address_US_CA.table     |Two Day    |
 |@country US                  |address_US_CA.table     |Overnight  |
-|@country US @skip UGPW-7009|address_US_CA.table     |SHOP RUNNER|
+|@country US @skip UGPW-7009  |address_US_CA.table     |SHOP RUNNER|
 |@country CA                  |address_CA_MB.table     |Standard   |
 |@country INTL                |address_INTL_India.table|Express    |
 |@country INTL                |address_INTL_India.table|Standard   |
@@ -184,7 +184,7 @@ Examples:
 |@country US                  |address_US_CA.table     |Standard   |
 |@country US                  |address_US_CA.table     |Two Day    |
 |@country US                  |address_US_CA.table     |Overnight  |
-|@country US @skip UGPW-7009|address_US_CA.table     |SHOP RUNNER|
+|@country US @skip UGPW-7009  |address_US_CA.table     |SHOP RUNNER|
 |@country CA                  |address_CA_MB.table     |Standard   |
 |@country INTL                |address_INTL_India.table|Express    |
 |@country INTL                |address_INTL_India.table|Standard   |
