@@ -146,7 +146,7 @@ Then shipping method <shipMethod> is selected
 When user opens edit block for for first cart item on Checkout page
 And user increases quantity 2 times in edit item block
 And user clicks update button in edit item block
-testg for multi lines
+testg for multi lines update
 Then shipping method <shipMethod> is selected
 
 Examples:
