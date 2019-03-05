@@ -16,7 +16,7 @@ Meta:
 @c1
 
 When user opens checkout page
-testing multiple line 2
+testing multiple line
 Given 1 regular product is added to Cart via services for a current UI session
 When user fills/edits shipping address for different countries: com/aeo/testdata/common/shippingAddress/<shippingAddress>
 And user clicks shipping options block
