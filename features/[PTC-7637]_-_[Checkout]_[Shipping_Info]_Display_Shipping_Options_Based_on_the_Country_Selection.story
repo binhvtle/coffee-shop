@@ -219,7 +219,7 @@ Meta:
 @c2
 
 Given 1 regular product is added to Cart via services for a current UI session
-And user adds product GD_regPrd1 with 1 quantity to cart from services
+And user adds product GD_regPrd1 with 1 quantity to cart from services 1
 When user opens checkout page
 And user fills/edits shipping address for different countries:
 {transformer=FROM_LANDSCAPE}
