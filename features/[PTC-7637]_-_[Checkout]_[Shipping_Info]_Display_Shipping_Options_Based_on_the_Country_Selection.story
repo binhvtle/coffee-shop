@@ -15,14 +15,6 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
-Given what the <hell> dude <shipMethod> shipping method
-Given this should <pass> for real dude
-Then shipping method <shipMethod> is selected
-Given What about
-this?
-huh?
-Given this has many lines
-also
 When user opens checkout page
 testing multiple line
 Given 1 regular product is added to Cart via services for a current UI session
@@ -214,7 +206,7 @@ And user clicks shipping options block
 Then verifying info message is displayed for a moment
 And verifying info message is not displayed
 When user selects shipping method <shipMethod>
-Then shipping method <shipMethod> is selected 1
+Then shipping method <shipMethod> is selected
 And Checkout Shoprunner section is not displayed
 
 Examples:
