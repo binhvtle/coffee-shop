@@ -15,6 +15,9 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
+Given What about
+this?
+huh?
 Given this has many lines
 also
 When user opens checkout page
