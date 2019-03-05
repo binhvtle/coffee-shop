@@ -353,7 +353,7 @@ And user opens checkout page
 Then Checkout Shoprunner section is displayed
 
 After:
-  testing
+  testing - update
   
   
   
