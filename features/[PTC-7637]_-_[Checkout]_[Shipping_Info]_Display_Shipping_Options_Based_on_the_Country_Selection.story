@@ -15,6 +15,7 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
+Given this should <pass> for real dude
 Then shipping method <shipMethod> is selected
 Given What about
 this?
