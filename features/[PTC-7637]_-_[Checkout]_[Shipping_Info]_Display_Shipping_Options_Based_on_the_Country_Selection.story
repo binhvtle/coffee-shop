@@ -15,6 +15,8 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
+Given this has many lines
+also
 When user opens checkout page
 testing multiple line
 Given 1 regular product is added to Cart via services for a current UI session
