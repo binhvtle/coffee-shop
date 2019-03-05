@@ -15,6 +15,7 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
+Then shipping method <shipMethod> is selected
 Given What about
 this?
 huh?
