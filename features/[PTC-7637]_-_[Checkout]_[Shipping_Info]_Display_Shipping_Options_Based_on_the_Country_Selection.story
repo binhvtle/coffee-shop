@@ -42,7 +42,7 @@ Meta:
 @c2
 @not_stable because of step - processing spinner.
 
-
+ 
 Given 1 regular product is added to Cart via services for a current UI session
 And user adds product GD_regPrd1 with 1 quantity to cart from services
 When user opens checkout page
