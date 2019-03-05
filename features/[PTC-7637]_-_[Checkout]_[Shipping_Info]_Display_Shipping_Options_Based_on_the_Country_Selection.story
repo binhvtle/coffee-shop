@@ -318,7 +318,7 @@ When user fills/edits shipping address for different countries: com/aeo/testdata
 And user clicks shipping options block
 Then verifying info message is displayed for a moment
 And verifying info message is not displayed
-testing mullti lines
+testing multi lines
 And Checkout Shoprunner section is displayed
 
 
