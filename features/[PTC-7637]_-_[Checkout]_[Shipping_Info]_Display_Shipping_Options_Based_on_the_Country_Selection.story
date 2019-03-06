@@ -15,6 +15,9 @@ Scenario: verifying user is able to select shipping method
 Meta:
 @c1
 
+When I buy slami 2
+And I cook slami
+Then I eat slami
 When user opens checkout page
 testing multiple line
 Given 1 regular product is added to Cart via services for a current UI session
@@ -24,9 +27,6 @@ Then verifying info message is displayed for a moment
 And verifying info message is not displayed
 When user selects shipping method <shipMethod>
 Then shipping method <shipMethod> is selected
-When I buy slami 2
-And I cook slami
-Then I eat slami
 When I buy kabbage
 And I cook kabbage
 Then I eat kabbage
