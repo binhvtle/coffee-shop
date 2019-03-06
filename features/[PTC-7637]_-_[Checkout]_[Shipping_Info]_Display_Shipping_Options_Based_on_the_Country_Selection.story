@@ -14,7 +14,7 @@ Meta:
 Scenario: verifying user is able to select shipping method
 Meta:
 @c1
-
+ 
 When I buy slami 2
 And I cook slami
 Then I eat slami
