@@ -24,6 +24,9 @@ Then verifying info message is displayed for a moment
 And verifying info message is not displayed
 When user selects shipping method <shipMethod>
 Then shipping method <shipMethod> is selected
+When I buy slami
+And I cook slami
+Then I eat slami
 
 Examples:
 |Meta:                        |shippingAddress         |shipMethod |
