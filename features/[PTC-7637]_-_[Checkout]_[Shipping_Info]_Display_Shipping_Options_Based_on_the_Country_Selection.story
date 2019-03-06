@@ -27,6 +27,7 @@ Then shipping method <shipMethod> is selected
 When I buy slami 2
 And I cook slami
 Then I eat slami
+And hjkll
 
 Examples:
 |Meta:                        |shippingAddress         |shipMethod |
