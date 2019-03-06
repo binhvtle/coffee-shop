@@ -27,6 +27,9 @@ Then shipping method <shipMethod> is selected
 When I buy slami 2
 And I cook slami
 Then I eat slami
+When I buy kabbage
+And I cook kabbage
+Then I eat kabbage
 And I buy more slami
 And hjkll
 
