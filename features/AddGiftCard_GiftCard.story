@@ -17,6 +17,7 @@ Then there are no errors and status is success
 When I add shipping address to cart: commerce/data/common/shippingAddress/<shippingAddress>
 Then there are no errors and status is success
 When I add gift card 'Gift_Card_25_USD_03'
+testing for multi lines
 Then there are no errors and status is success
 When I view cart
 Then payment response contains correct recalculated payment amount
