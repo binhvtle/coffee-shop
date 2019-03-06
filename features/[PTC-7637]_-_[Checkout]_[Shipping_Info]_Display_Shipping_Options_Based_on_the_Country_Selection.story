@@ -24,7 +24,7 @@ Then verifying info message is displayed for a moment
 And verifying info message is not displayed
 When user selects shipping method <shipMethod>
 Then shipping method <shipMethod> is selected
-When I buy slami
+When I buy slami 2
 And I cook slami
 Then I eat slami
 
