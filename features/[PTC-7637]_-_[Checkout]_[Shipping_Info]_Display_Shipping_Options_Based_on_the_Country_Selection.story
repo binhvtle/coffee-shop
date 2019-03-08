@@ -208,6 +208,7 @@ Meta:
 
 Given 1 regular product is added to Cart via services for a current UI session
 When user opens checkout page
+testtt
 And user changes country in Shipping Address block to APO/FPO/DPO
 When user fills/edits shipping address for different countries: com/aeo/testdata/common/shippingAddress/<shippingAddress>
 And user clicks shipping options block
