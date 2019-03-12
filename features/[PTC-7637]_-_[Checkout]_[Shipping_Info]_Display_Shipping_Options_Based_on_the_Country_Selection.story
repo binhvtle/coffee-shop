@@ -267,6 +267,7 @@ And user clicks shipping options block
 Then verifying info message is displayed for a moment
 And verifying info message is not displayed
 And Checkout Shoprunner section is not displayed
+And Checkout Shopping bag 
 
 Examples:
 |Meta:        |shippingAddress         |
