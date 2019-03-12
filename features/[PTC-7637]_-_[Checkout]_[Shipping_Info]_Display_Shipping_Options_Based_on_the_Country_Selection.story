@@ -363,6 +363,7 @@ Then Checkout Shoprunner section is displayed
 
 After:
   testing - update
+  And Checkout
   
   
   
