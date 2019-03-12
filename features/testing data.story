@@ -4,3 +4,7 @@ Feature:
     When User types something like this
     Then User click on a button
     And waiting for page load
+
+    Scenario: auto
+      When User types something onetimes again
+      Then User ///
