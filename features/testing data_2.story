@@ -11,5 +11,5 @@ Feature:
       And waitingfff 
       User Click 
     When User types
-    
+    And User 
       
