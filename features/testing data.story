@@ -8,3 +8,6 @@ Feature:
     Scenario: auto
       When User types something onetimes again
       Then User ///
+      And waitingfff 
+      User Click 
+      
