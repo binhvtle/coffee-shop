@@ -5,4 +5,5 @@ Feature: Shop should order more coffee on Tuesdays
     When the date is Tuesday
     And the inventory count of coffees is 0
     Then I expect the inventory order to be placed
-    And I expect the coffees ordered to be 5
+    And I expect the coffees ordered to be 5 
+    Given something happens
