@@ -3,4 +3,6 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    yo dawg
+    Given nothing
+    Then take everything
+    
