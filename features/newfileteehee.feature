@@ -6,3 +6,4 @@ Feature:
     Given nothing
     Then take everything 31927
     And 
+    When 
