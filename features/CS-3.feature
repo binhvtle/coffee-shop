@@ -7,5 +7,5 @@ Feature: Shop should order more coffee on Tuesdays
     Then I expect the inventory order to be placed
     And I expect the coffees ordered to be 5 
     Given something happens 12
-    And oh hi Mark!
+    And oh hi Mark! 2
     
