@@ -3,4 +3,4 @@ Feature: keywords
 
   Scenario:
     <Some interesting scenario steps here>
-    When When Then And But Given testing and t
+    When Then And But Given testing and t
