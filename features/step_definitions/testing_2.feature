@@ -4,5 +4,5 @@ Feature: testing
     Then I purchase a coffee
     When I purchase a 'dark' coffee
     Then I purchase a coffee
-    Then I purchase a coffee
+    And I purchase a coffee
     Then I purchase a coffee
