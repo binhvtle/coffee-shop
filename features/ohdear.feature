@@ -6,6 +6,6 @@ Feature:
     Given oh Hi dere
     And same
     When same
-    Then same 
+    Then same And esadsa
     And same
     
