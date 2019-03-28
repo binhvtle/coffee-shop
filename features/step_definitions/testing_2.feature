@@ -6,3 +6,8 @@ Feature: testing
     Then I purchase a coffee
     And I purchase a coffee
     Then I purchase a coffee
+    Then I purchase a 'dark' coffee
+    And I purchase a coffee
+    Then I purchase a coffee
+    And I purchase a 'dark' coffee
+    And I purchase a coffee
